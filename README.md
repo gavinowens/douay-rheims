@@ -5,3 +5,6 @@ A plaintext typeset of the 1582 and 1633 printings of the Douay Rheims Bible. Th
 The Holy Writ is kept the exact same as it was written while retyping it to a digital fontface, with the only exceptions labeled below:
 - Where it would make sense, 'u' is converted to 'v' and vice versa.
 - "Long S" is rendered as a regular 's', capitalized or lowercase depending on its surroundings.
+
+## Motivation
+I hadn't seen any complete attempts to digitize the whole, original Douay Rheims. The closest attempt I've seen fell short in that it removed the deuterocanonical books. I decided to use a series of facsimiles in my possesion to do this work myself– including the whole Bible. This project should be considered free use for anybody, including those who may want to print and sell Bibles. I have no wish to try to legally encumber the Word of God. 
