@@ -4,7 +4,7 @@ A plaintext typeset of the 1582 and 1633 printings of the Douay Rheims Bible. Th
 ## Methodology
 The Holy Writ is kept the exact same as it was written while retyping it to a digital fontface, with the only exceptions labeled below:
 - Where it would make sense, 'u' is converted to 'v' and vice versa.
-- "Long S" is rendered as a regular 's', capitalized or lowercase depending on its surroundings.
+- "Long S" is rendered as a regular 's'.
 - Where it would make sense, 'i' is converted to a 'j'. This letter doesn't seem to be used in the Douay Rheims, because of the translation's age. 'J' is a textual variant of 'i' in the text, and is thus rendered in modern fonts as a seperate letter.
 - Due to limitations in the plain text format, italics are not preserved in the digitized version.
 - Due to limitations in the plain text format, Unicode ligatures like 'et' are rendered as their ASCII equivalents.
