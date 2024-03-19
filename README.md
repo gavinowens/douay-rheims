@@ -1,5 +1,5 @@
 # Douay Rheims
-A plaintext typeset of the 1582 and 1633 printings of the Douay Rheims Bible. The project hierarchy is divided by book, and then divided by chapter. Annotations are included in the respective chapter folder.
+A plaintext typeset of the 1582 and 1635 printings of the Douay Rheims Bible. The project hierarchy is divided by book, and then divided by chapter. Annotations are included in the respective chapter folder.
 
 ## Methodology
 The Holy Writ is kept the exact same as it was written while retyping it to a digital fontface, with the only exceptions labeled below:
@@ -14,7 +14,7 @@ The Holy Writ is kept the exact same as it was written while retyping it to a di
 I hadn't seen any complete attempts to digitize the whole, original Douay Rheims Bible in an open format. I decided to use a series of facsimiles in my possesion to do this work myself. This project should be considered free use for anybody, including those who may want to print and sell Bibles. I have no wish to try to legally encumber the Word of God. 
 
 ## Sources
-For the New Testament English, I exclusively use the 1582 printing as a facsimile that is in print. The same facsimile is available from the Internet Archive. For the Old Testament English, I predominantly made use of the 1633 printing, as this is the one I have a physical copy of. For parts that are low visibility, I compare the text to the 1609 printing available from the Internet Archive. I am unaware of any differences textually between these two printings. For Latin quotations in either Testament, I attempt to quote directly from the text, but in cases where the script is hard to see, I compare it with the Clementine Vulgate.
+For the New Testament English, I exclusively use the 1582 printing as a facsimile that is in print. The same facsimile is available from the Internet Archive. For the Old Testament English, I predominantly made use of the 1635 printing, as this is the one I have a physical copy of. For parts that are low visibility, I compare the text to the 1609 printing available from the Internet Archive. I am unaware of any differences textually between these two printings. For Latin quotations in either Testament, I attempt to quote directly from the text, but in cases where the script is hard to see, I compare it with the Clementine Vulgate.
 
 ## Reporting Inaccuracies
 If you find any textual discrepancies in the text files, please open an issue or a pull request. Please provide a source to compare against in your report.
